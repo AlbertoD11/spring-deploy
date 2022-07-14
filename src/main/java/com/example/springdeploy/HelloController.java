@@ -1,4 +1,4 @@
-package com.example.ejercicio101112;
+package com.example.springdeploy;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
